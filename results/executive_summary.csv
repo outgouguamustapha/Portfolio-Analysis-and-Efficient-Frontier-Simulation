@@ -1,0 +1,11 @@
+Metric,Value
+Analysis Period,10.7 years (2015-01-02 to 2025-09-05)
+Assets Analyzed,"8 assets (S&P 500, NASDAQ 100, Small Cap, Int'l Developed, Emerging Markets, REITs, Gold, Bonds)"
+Total Simulations,"25,000 portfolios"
+Best Sharpe Ratio,0.557 (vs 0.560 best individual)
+Lowest Risk Portfolio,8.19% annual volatility
+Highest Return Portfolio,12.26% annual return
+Average Correlation,0.465 (Good diversification)
+Diversification Benefit,-0.004 Sharpe improvement
+Risk Reduction Potential,-50.8% volatility reduction vs single assets
+Recommended Strategy,Max Sharpe for balanced investors

@@ -1,0 +1,9 @@
+,Asset Name,Annual Return (%),Annual Volatility (%),Excess Return (%),Sharpe Ratio,Return/Risk,Total Return (%)
+SPY,S&P 500,12.47,17.99,7.97,0.443,0.693,277.2
+QQQ,NASDAQ 100,16.92,22.17,12.42,0.56,0.763,506.3
+IWM,Small Cap,7.8,22.73,3.3,0.145,0.343,129.5
+EFA,Int'l Developed,6.78,17.46,2.28,0.131,0.388,105.9
+EEM,Emerging Markets,4.64,20.66,0.14,0.007,0.224,63.9
+VNQ,REITs,5.03,20.89,0.53,0.025,0.241,70.9
+GLD,Gold,10.0,14.44,5.5,0.381,0.693,190.2
+BND,Bonds,1.82,5.43,-2.68,-0.493,0.335,21.4
