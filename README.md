@@ -27,12 +27,15 @@ This project implements a sophisticated portfolio optimization system that helps
 portfolio-analysis/
 ├── README.md                          # This file
 ├── portfolio_analysis.ipynb           # Main Jupyter notebook
+├── portfolio_analysis.py              # python script
 ├── requirements.txt                   # Python dependencies
 ├── data/                              # (Auto-generated) Downloaded market data
 ├── results/                           # (Auto-generated) Analysis outputs
 │   ├── monte_carlo_results.csv
 │   ├── optimal_portfolio_weights.csv
 │   ├── correlation_matrix.csv
+│   ├── asset_risk_return_metrics.csv
+│   ├── drawdown_analysis.csv
 │   └── executive_summary.csv
 └── images/                            # (Auto-generated) Visualization outputs
     ├── efficient_frontier.png
