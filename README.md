@@ -29,7 +29,7 @@ portfolio-analysis/
 ├── portfolio_analysis.ipynb           # Main Jupyter notebook
 ├── portfolio_analysis.py              # python script
 ├── requirements.txt                   # Python dependencies
-├── data/                              # (Auto-generated) Downloaded market data
+├── PORTFOLIO Analysis Report.pdf      # Project Report (academic format)
 ├── results/                           # (Auto-generated) Analysis outputs
 │   ├── monte_carlo_results.csv
 │   ├── optimal_portfolio_weights.csv
